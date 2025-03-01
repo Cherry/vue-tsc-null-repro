@@ -1,4 +1,4 @@
-Reproduction for ...
+Reproduction for https://github.com/vuejs/language-tools/issues/5226
 
 Run `npm run test` to see the reported issue.
 
